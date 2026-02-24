@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0011-container-with-most-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Math
@@ -17,10 +18,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0011-container-with-most-water) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0011-container-with-most-water) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Sorting
 |  |
