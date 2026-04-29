@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0011-container-with-most-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -44,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2109-adding-spaces-to-a-string](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2109-adding-spaces-to-a-string) |
 | [2460-apply-operations-to-an-array](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2460-apply-operations-to-an-array) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
