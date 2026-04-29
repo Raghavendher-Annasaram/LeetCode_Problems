@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0011-container-with-most-water) |
+| [0053-maximum-subarray](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0053-maximum-subarray) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2109-adding-spaces-to-a-string) |
@@ -49,4 +50,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0001-two-sum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
