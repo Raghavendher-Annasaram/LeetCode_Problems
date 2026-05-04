@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0011-container-with-most-water) |
 | [0053-maximum-subarray](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0053-maximum-subarray) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0643-maximum-average-subarray-i](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0643-maximum-average-subarray-i) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2109-adding-spaces-to-a-string) |
 | [2460-apply-operations-to-an-array](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2460-apply-operations-to-an-array) |
@@ -58,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0053-maximum-subarray) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
