@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0011-container-with-most-water) |
 | [0053-maximum-subarray](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0053-maximum-subarray) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0347-top-k-frequent-elements](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0643-maximum-average-subarray-i](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0347-top-k-frequent-elements) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## String
@@ -57,12 +59,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0001-two-sum) |
+| [0347-top-k-frequent-elements](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0347-top-k-frequent-elements) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2799-count-complete-subarrays-in-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0053-maximum-subarray) |
+| [0347-top-k-frequent-elements](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0347-top-k-frequent-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -79,5 +83,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0347-top-k-frequent-elements) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
