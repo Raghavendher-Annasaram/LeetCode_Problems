@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0643-maximum-average-subarray-i) |
+| [0692-top-k-frequent-words](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0692-top-k-frequent-words) |
 | [0819-most-common-word](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0819-most-common-word) |
 | [1122-relative-sort-array](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/1122-relative-sort-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0692-top-k-frequent-words) |
 | [1122-relative-sort-array](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/1122-relative-sort-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0692-top-k-frequent-words](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0692-top-k-frequent-words) |
 | [0819-most-common-word](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0819-most-common-word) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1768-merge-strings-alternately](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/1768-merge-strings-alternately) |
@@ -67,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0001-two-sum) |
 | [0347-top-k-frequent-elements](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0692-top-k-frequent-words](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0692-top-k-frequent-words) |
 | [0819-most-common-word](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0819-most-common-word) |
 | [1122-relative-sort-array](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/1122-relative-sort-array) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -93,16 +97,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0692-top-k-frequent-words) |
 | [0819-most-common-word](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0819-most-common-word) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0692-top-k-frequent-words) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0692-top-k-frequent-words) |
 ## Quickselect
 |  |
 | ------- |
@@ -111,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1122-relative-sort-array](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/1122-relative-sort-array) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
