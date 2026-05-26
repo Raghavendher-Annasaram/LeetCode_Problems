@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0819-most-common-word](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0819-most-common-word) |
+| [1122-relative-sort-array](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/1122-relative-sort-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0347-top-k-frequent-elements) |
+| [1122-relative-sort-array](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/1122-relative-sort-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## String
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0819-most-common-word](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0819-most-common-word) |
+| [1122-relative-sort-array](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/1122-relative-sort-array) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2799-count-complete-subarrays-in-an-array) |
 ## Divide and Conquer
@@ -104,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0347-top-k-frequent-elements) |
+## Counting Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
