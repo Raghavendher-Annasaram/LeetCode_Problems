@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2109-adding-spaces-to-a-string) |
 | [2460-apply-operations-to-an-array](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2460-apply-operations-to-an-array) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2799-count-complete-subarrays-in-an-array) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2109-adding-spaces-to-a-string) |
 ## Simulation
 |  |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2799-count-complete-subarrays-in-an-array) |
 ## Divide and Conquer
 |  |
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2053-kth-distinct-string-in-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
