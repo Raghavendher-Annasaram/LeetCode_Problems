@@ -40,12 +40,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3005-count-elements-with-maximum-frequency](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3046-split-the-array](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/3046-split-the-array) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/3162-find-the-number-of-good-pairs-i) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 ## Math
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1512-number-of-good-pairs](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/1512-number-of-good-pairs) |
 | [2965-find-missing-and-repeated-values](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2965-find-missing-and-repeated-values) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 ## Stack
 |  |
 | ------- |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3046-split-the-array](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/3046-split-the-array) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/3162-find-the-number-of-good-pairs-i) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 ## Divide and Conquer
 |  |
 | ------- |
