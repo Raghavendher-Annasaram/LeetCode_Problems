@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2085-count-common-words-with-one-occurrence](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2109-adding-spaces-to-a-string](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2109-adding-spaces-to-a-string) |
 | [2506-count-pairs-of-similar-strings](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2506-count-pairs-of-similar-strings) |
+| [2716-minimize-string-length](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2716-minimize-string-length) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Simulation
 |  |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-number-of-distinct-averages](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2465-number-of-distinct-averages) |
 | [2506-count-pairs-of-similar-strings](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2506-count-pairs-of-similar-strings) |
 | [2540-minimum-common-value](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2540-minimum-common-value) |
+| [2716-minimize-string-length](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2716-minimize-string-length) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2799-count-complete-subarrays-in-an-array) |
 ## Divide and Conquer
