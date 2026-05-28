@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2965-find-missing-and-repeated-values](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2965-find-missing-and-repeated-values) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3046-split-the-array](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/3046-split-the-array) |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/3162-find-the-number-of-good-pairs-i) |
 ## Math
 |  |
 | ------- |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3005-count-elements-with-maximum-frequency](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3046-split-the-array](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/3046-split-the-array) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/3162-find-the-number-of-good-pairs-i) |
 ## Divide and Conquer
 |  |
 | ------- |
