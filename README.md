@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2869-minimum-operations-to-collect-elements) |
 | [2965-find-missing-and-repeated-values](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2965-find-missing-and-repeated-values) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Math
 |  |
 | ------- |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2869-minimum-operations-to-collect-elements) |
 | [2965-find-missing-and-repeated-values](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2965-find-missing-and-repeated-values) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2085-count-common-words-with-one-occurrence](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2404-most-frequent-even-element](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2404-most-frequent-even-element) |
 | [2506-count-pairs-of-similar-strings](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2506-count-pairs-of-similar-strings) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
