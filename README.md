@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2460-apply-operations-to-an-array](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2460-apply-operations-to-an-array) |
 | [2465-number-of-distinct-averages](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2465-number-of-distinct-averages) |
 | [2506-count-pairs-of-similar-strings](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2506-count-pairs-of-similar-strings) |
+| [2540-minimum-common-value](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2540-minimum-common-value) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2799-count-complete-subarrays-in-an-array) |
 ## Math
 |  |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2109-adding-spaces-to-a-string](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2109-adding-spaces-to-a-string) |
 | [2460-apply-operations-to-an-array](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2460-apply-operations-to-an-array) |
 | [2465-number-of-distinct-averages](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2465-number-of-distinct-averages) |
+| [2540-minimum-common-value](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2540-minimum-common-value) |
 ## Greedy
 |  |
 | ------- |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2404-most-frequent-even-element](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2404-most-frequent-even-element) |
 | [2465-number-of-distinct-averages](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2465-number-of-distinct-averages) |
 | [2506-count-pairs-of-similar-strings](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2506-count-pairs-of-similar-strings) |
+| [2540-minimum-common-value](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2540-minimum-common-value) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2799-count-complete-subarrays-in-an-array) |
 ## Divide and Conquer
 |  |
@@ -180,4 +183,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2506-count-pairs-of-similar-strings](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2506-count-pairs-of-similar-strings) |
+## Binary Search
+|  |
+| ------- |
+| [2540-minimum-common-value](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2540-minimum-common-value) |
 <!---LeetCode Topics End-->
