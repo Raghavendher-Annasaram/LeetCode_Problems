@@ -36,11 +36,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2869-minimum-operations-to-collect-elements) |
+| [2965-find-missing-and-repeated-values](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2965-find-missing-and-repeated-values) |
 ## Math
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1512-number-of-good-pairs](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/1512-number-of-good-pairs) |
+| [2965-find-missing-and-repeated-values](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2965-find-missing-and-repeated-values) |
 ## Stack
 |  |
 | ------- |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2869-minimum-operations-to-collect-elements) |
+| [2965-find-missing-and-repeated-values](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -196,4 +199,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2540-minimum-common-value](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2540-minimum-common-value) |
+## Matrix
+|  |
+| ------- |
+| [2965-find-missing-and-repeated-values](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2965-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
