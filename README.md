@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2395-find-subarrays-with-equal-sum](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2404-most-frequent-even-element](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2404-most-frequent-even-element) |
 | [2460-apply-operations-to-an-array](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2460-apply-operations-to-an-array) |
+| [2465-number-of-distinct-averages](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2465-number-of-distinct-averages) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2799-count-complete-subarrays-in-an-array) |
 ## Math
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2109-adding-spaces-to-a-string) |
 | [2460-apply-operations-to-an-array](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2460-apply-operations-to-an-array) |
+| [2465-number-of-distinct-averages](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2465-number-of-distinct-averages) |
 ## Greedy
 |  |
 | ------- |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2465-number-of-distinct-averages](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2465-number-of-distinct-averages) |
 ## String
 |  |
 | ------- |
@@ -111,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2404-most-frequent-even-element](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2404-most-frequent-even-element) |
+| [2465-number-of-distinct-averages](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2465-number-of-distinct-averages) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2799-count-complete-subarrays-in-an-array) |
 ## Divide and Conquer
 |  |
