@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2085-count-common-words-with-one-occurrence](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2109-adding-spaces-to-a-string](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2109-adding-spaces-to-a-string) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2395-find-subarrays-with-equal-sum](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2460-apply-operations-to-an-array](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2460-apply-operations-to-an-array) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2799-count-complete-subarrays-in-an-array) |
 ## Math
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-kth-distinct-string-in-an-array](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2395-find-subarrays-with-equal-sum](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2799-count-complete-subarrays-in-an-array) |
 ## Divide and Conquer
 |  |
