@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2540-minimum-common-value) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2799-count-complete-subarrays-in-an-array) |
+| [2869-minimum-operations-to-collect-elements](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2869-minimum-operations-to-collect-elements) |
 ## Math
 |  |
 | ------- |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2716-minimize-string-length](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2716-minimize-string-length) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2799-count-complete-subarrays-in-an-array) |
+| [2869-minimum-operations-to-collect-elements](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2869-minimum-operations-to-collect-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2506-count-pairs-of-similar-strings](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2506-count-pairs-of-similar-strings) |
+| [2869-minimum-operations-to-collect-elements](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2869-minimum-operations-to-collect-elements) |
 ## Binary Search
 |  |
 | ------- |
