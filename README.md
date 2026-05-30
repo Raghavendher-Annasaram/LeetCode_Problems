@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2716-minimize-string-length](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2716-minimize-string-length) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 ## Simulation
 |  |
 | ------- |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2506-count-pairs-of-similar-strings](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2506-count-pairs-of-similar-strings) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3046-split-the-array](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/3046-split-the-array) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
