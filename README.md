@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2869-minimum-operations-to-collect-elements) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2965-find-missing-and-repeated-values) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3046-split-the-array](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/3046-split-the-array) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2869-minimum-operations-to-collect-elements) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2965-find-missing-and-repeated-values) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3046-split-the-array](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/3046-split-the-array) |
