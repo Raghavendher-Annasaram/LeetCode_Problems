@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0053-maximum-subarray) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0347-top-k-frequent-elements](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0347-top-k-frequent-elements) |
@@ -54,11 +55,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Two Pointers
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0042-trapping-rain-water) |
 | [1768-merge-strings-alternately](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/1768-merge-strings-alternately) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2109-adding-spaces-to-a-string) |
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0053-maximum-subarray) |
 ## Sliding Window
 |  |
@@ -230,4 +234,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2965-find-missing-and-repeated-values](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2965-find-missing-and-repeated-values) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
