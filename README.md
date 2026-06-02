@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3668-restore-finishing-order](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/3668-restore-finishing-order) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3731-find-missing-elements](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2465-number-of-distinct-averages](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2465-number-of-distinct-averages) |
+| [3731-find-missing-elements](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3668-restore-finishing-order](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/3668-restore-finishing-order) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3731-find-missing-elements](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
