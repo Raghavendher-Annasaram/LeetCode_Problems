@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2716-minimize-string-length](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2716-minimize-string-length) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3146-permutation-difference-between-two-strings](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/3146-permutation-difference-between-two-strings) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Simulation
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3005-count-elements-with-maximum-frequency](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3046-split-the-array](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/3046-split-the-array) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3146-permutation-difference-between-two-strings](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/3146-permutation-difference-between-two-strings) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
