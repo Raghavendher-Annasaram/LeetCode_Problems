@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/3668-restore-finishing-order) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 ## Math
 |  |
 | ------- |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3668-restore-finishing-order](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/3668-restore-finishing-order) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3046-split-the-array](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/3046-split-the-array) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
