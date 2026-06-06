@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-number-of-distinct-averages](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2465-number-of-distinct-averages) |
 | [2506-count-pairs-of-similar-strings](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2506-count-pairs-of-similar-strings) |
 | [2540-minimum-common-value](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2540-minimum-common-value) |
+| [2574-left-and-right-sum-differences](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2574-left-and-right-sum-differences) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2848-points-that-intersect-with-cars](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2848-points-that-intersect-with-cars) |
@@ -255,5 +256,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [2574-left-and-right-sum-differences](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2574-left-and-right-sum-differences) |
 | [2848-points-that-intersect-with-cars](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2848-points-that-intersect-with-cars) |
 <!---LeetCode Topics End-->
