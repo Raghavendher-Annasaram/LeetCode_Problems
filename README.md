@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-kth-distinct-string-in-an-array](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2109-adding-spaces-to-a-string](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2109-adding-spaces-to-a-string) |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2506-count-pairs-of-similar-strings](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2506-count-pairs-of-similar-strings) |
 | [2716-minimize-string-length](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2716-minimize-string-length) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2744-find-maximum-number-of-string-pairs) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-kth-distinct-string-in-an-array](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2404-most-frequent-even-element](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2404-most-frequent-even-element) |
 | [2465-number-of-distinct-averages](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2465-number-of-distinct-averages) |
@@ -258,4 +260,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2574-left-and-right-sum-differences](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2574-left-and-right-sum-differences) |
 | [2848-points-that-intersect-with-cars](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2848-points-that-intersect-with-cars) |
+## Enumeration
+|  |
+| ------- |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 <!---LeetCode Topics End-->
