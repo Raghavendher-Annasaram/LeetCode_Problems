@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0819-most-common-word) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1768-merge-strings-alternately](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/1768-merge-strings-alternately) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [2574-left-and-right-sum-differences](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2574-left-and-right-sum-differences) |
 | [2848-points-that-intersect-with-cars](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2848-points-that-intersect-with-cars) |
 ## Enumeration
