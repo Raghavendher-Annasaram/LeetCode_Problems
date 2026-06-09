@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0053-maximum-subarray) |
+| [0088-merge-sorted-array](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0088-merge-sorted-array) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0347-top-k-frequent-elements](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0575-distribute-candies](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0575-distribute-candies) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0042-trapping-rain-water) |
+| [0088-merge-sorted-array](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0088-merge-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/1768-merge-strings-alternately) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2109-adding-spaces-to-a-string) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0088-merge-sorted-array) |
 | [0347-top-k-frequent-elements](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0692-top-k-frequent-words) |
 | [0791-custom-sort-string](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0791-custom-sort-string) |
