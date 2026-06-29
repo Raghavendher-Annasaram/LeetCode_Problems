@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1668-maximum-repeating-substring](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/1668-maximum-repeating-substring) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1768-merge-strings-alternately](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/1768-merge-strings-alternately) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0338-counting-bits) |
 | [0647-palindromic-substrings](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0647-palindromic-substrings) |
+| [1668-maximum-repeating-substring](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/1668-maximum-repeating-substring) |
 ## Sliding Window
 |  |
 | ------- |
@@ -280,4 +282,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
+## String Matching
+|  |
+| ------- |
+| [1668-maximum-repeating-substring](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/1668-maximum-repeating-substring) |
 <!---LeetCode Topics End-->
