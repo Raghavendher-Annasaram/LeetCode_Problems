@@ -298,4 +298,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1668-maximum-repeating-substring](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/1668-maximum-repeating-substring) |
+## Database
+|  |
+| ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0181-employees-earning-more-than-their-managers) |
 <!---LeetCode Topics End-->
