@@ -308,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0184-department-highest-salary](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0184-department-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0196-delete-duplicate-emails) |
 | [0627-swap-sex-of-employees](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0627-swap-sex-of-employees) |
+| [1075-project-employees-i](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/1075-project-employees-i) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1484-group-sold-products-by-the-date](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/1484-group-sold-products-by-the-date) |
 <!---LeetCode Topics End-->
