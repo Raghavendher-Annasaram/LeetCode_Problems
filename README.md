@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0575-distribute-candies](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0692-top-k-frequent-words](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0692-top-k-frequent-words) |
 | [0819-most-common-word](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0819-most-common-word) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1512-number-of-good-pairs](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/1512-number-of-good-pairs) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [2965-find-missing-and-repeated-values](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2965-find-missing-and-repeated-values) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0088-merge-sorted-array) |
 | [0347-top-k-frequent-elements](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0451-sort-characters-by-frequency) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0692-top-k-frequent-words) |
 | [0791-custom-sort-string](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0791-custom-sort-string) |
 | [1122-relative-sort-array](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/1122-relative-sort-array) |
