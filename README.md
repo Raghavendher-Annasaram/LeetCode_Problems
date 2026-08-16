@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0011-container-with-most-water) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0088-merge-sorted-array) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0345-reverse-vowels-of-a-string) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0067-add-binary) |
 | [0179-largest-number](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0179-largest-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0345-reverse-vowels-of-a-string) |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1668-maximum-repeating-substring](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/1668-maximum-repeating-substring) |
 ## Database
 |  |
@@ -336,4 +339,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-find-total-time-spent-by-each-employee](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 | [3436-find-valid-emails](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/3436-find-valid-emails) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
