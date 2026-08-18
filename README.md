@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0179-largest-number](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0179-largest-number) |
+| [0318-maximum-product-of-word-lengths](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0318-maximum-product-of-word-lengths) |
 | [0347-top-k-frequent-elements](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0575-distribute-candies](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0067-add-binary) |
 | [0179-largest-number](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0179-largest-number) |
+| [0318-maximum-product-of-word-lengths](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0318-maximum-product-of-word-lengths) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0415-add-strings) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0067-add-binary) |
+| [0318-maximum-product-of-word-lengths](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0318-maximum-product-of-word-lengths) |
 | [0338-counting-bits](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0338-counting-bits) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/1684-count-the-number-of-consistent-strings) |
