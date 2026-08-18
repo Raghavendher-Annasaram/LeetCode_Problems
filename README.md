@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0415-add-strings](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0415-add-strings) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1512-number-of-good-pairs](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/1512-number-of-good-pairs) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/1742-maximum-number-of-balls-in-a-box) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0179-largest-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0415-add-strings](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0415-add-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0647-palindromic-substrings](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0647-palindromic-substrings) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0067-add-binary) |
+| [0415-add-strings](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/0415-add-strings) |
 | [2109-adding-spaces-to-a-string](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2109-adding-spaces-to-a-string) |
 | [2460-apply-operations-to-an-array](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2460-apply-operations-to-an-array) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2744-find-maximum-number-of-string-pairs) |
