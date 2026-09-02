@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/3731-find-missing-elements) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/3875-construct-uniform-parity-array-i) |
 ## Math
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2965-find-missing-and-repeated-values](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/2965-find-missing-and-repeated-values) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Raghavendher-Annasaram/LeetCode_Problems/tree/master/3875-construct-uniform-parity-array-i) |
 ## Stack
 |  |
 | ------- |
